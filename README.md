@@ -12,7 +12,7 @@ I'm currently studying to become a fullstack dev🔥
 
 <hr>
 
-![Rodeuz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodeuz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodeuz&layout=donut&theme=radical)
+![Rodeuz GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodeuz&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodeuz&layout=compact&theme=radical) 
 
 
 
