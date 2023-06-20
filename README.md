@@ -29,6 +29,6 @@ I'm currently studying to become a fullstack dev🔥
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
-- asad
+
 
 </div>
